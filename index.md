@@ -1,6 +1,3 @@
-<pre>
-<pre> 
-<pre>
 ## Sebastian Mortimer
 
 ### About
